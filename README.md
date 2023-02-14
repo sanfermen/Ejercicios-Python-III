@@ -52,6 +52,6 @@ pickle
 ***
  
   - [Sandra](https://github.com/sanfermen)
-  - [Sonia](https://github.com/AnaGT85)
+  - [Ana](https://github.com/AnaGT85)
   
 
